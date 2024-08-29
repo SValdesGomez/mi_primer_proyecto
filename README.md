@@ -1,1 +1,2 @@
-# mi_prmer_proyecto
+# ***mi primer proyecto en git***
+**mi nombre es Samuel Valdes**
