@@ -1,5 +1,6 @@
-# ***mi primer proyecto en git***
-**mi nombre es Samuel Valdes**
+**PROYECTO PROGRAMACION ORIENTADA A EVENTOS** 
+
+***Version de Java: 22***
 
 **INTEGRANTES:**
  - Santiago Hernandez Aguado - **2380367**
